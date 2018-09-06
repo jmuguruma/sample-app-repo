@@ -70,3 +70,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Use jquery
 gem "jquery-rails"
+
+gem "sass", '>= 3.5.2'
